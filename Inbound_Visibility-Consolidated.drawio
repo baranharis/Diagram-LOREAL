@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-08-18T13:53:48.504Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="kqjjinMrO9dYnM9hZN_n" version="21.6.5" type="github">
+<mxfile host="app.diagrams.net" modified="2023-08-21T10:54:22.131Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="2nB8q_g12KD41vwIChGh" version="21.6.5" type="github">
   <diagram name="Page-1" id="-PrbdQjXji2XNEa-jSd8">
     <mxGraphModel dx="984" dy="575" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="1">
       <root>
@@ -85,7 +85,7 @@
         <mxCell id="r-W4MLv6wnLr3ksw_QMo-21" value="&lt;b&gt;Index&lt;/b&gt;&lt;br&gt;aggs-neo.inbound.consolidated-enrich_index" style="html=1;verticalLabelPosition=bottom;align=center;labelBackgroundColor=#ffffff;verticalAlign=top;strokeWidth=2;strokeColor=#82b366;shadow=0;dashed=0;shape=mxgraph.ios7.icons.data;fillColor=#d5e8d4;" parent="1" vertex="1">
           <mxGeometry x="578.53" y="420" width="51" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="r-W4MLv6wnLr3ksw_QMo-24" value="&lt;b&gt;Ingest pipeline&lt;/b&gt;&lt;br&gt;neo.inbound-consolidated.datas.raw-00" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#4D27AA;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.redshift_streaming_ingestion;" parent="1" vertex="1">
+        <mxCell id="r-W4MLv6wnLr3ksw_QMo-24" value="&lt;b&gt;Ingest pipeline&lt;/b&gt;&lt;br&gt;neo.inbound-consolidated.datas.raw" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#4D27AA;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.redshift_streaming_ingestion;" parent="1" vertex="1">
           <mxGeometry x="378" y="570" width="71" height="78" as="geometry" />
         </mxCell>
         <mxCell id="r-W4MLv6wnLr3ksw_QMo-61" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="r-W4MLv6wnLr3ksw_QMo-25" target="r-W4MLv6wnLr3ksw_QMo-60" edge="1">
