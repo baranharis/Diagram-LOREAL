@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-08-29T15:42:03.963Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="tbrH1w--s9aOE0c9g0EC" version="21.6.8" type="github">
+<mxfile host="app.diagrams.net" modified="2023-09-04T13:46:59.100Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="zW6RGPw1DuLJ60Grkmly" version="21.7.0" type="github">
   <diagram name="Page-1" id="-PrbdQjXji2XNEa-jSd8">
-    <mxGraphModel dx="984" dy="575" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="1">
+    <mxGraphModel dx="984" dy="574" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="1">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -43,13 +43,13 @@
         <mxCell id="r-W4MLv6wnLr3ksw_QMo-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=-0.029;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="r-W4MLv6wnLr3ksw_QMo-9" target="r-W4MLv6wnLr3ksw_QMo-21" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="r-W4MLv6wnLr3ksw_QMo-9" value="&lt;b&gt;Enrich policy&lt;/b&gt;&lt;br&gt;aggs-neo.inbound.consolidated-enrich_policy" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=#9673a6;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#e1d5e7;shape=mxgraph.mscae.intune.policy;" parent="1" vertex="1">
+        <mxCell id="r-W4MLv6wnLr3ksw_QMo-9" value="&lt;b&gt;Enrich policy&lt;/b&gt;&lt;br&gt;aggs-datas-neo.inbound-consolidated-enrich_policy" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=#9673a6;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#e1d5e7;shape=mxgraph.mscae.intune.policy;" parent="1" vertex="1">
           <mxGeometry x="393" y="350" width="41" height="36" as="geometry" />
         </mxCell>
         <mxCell id="r-W4MLv6wnLr3ksw_QMo-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="r-W4MLv6wnLr3ksw_QMo-21" target="r-W4MLv6wnLr3ksw_QMo-24" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="r-W4MLv6wnLr3ksw_QMo-23" value="&lt;b&gt;Index&lt;/b&gt;&lt;br&gt;aggs-neo.inbound.consolidated" style="html=1;verticalLabelPosition=bottom;align=center;labelBackgroundColor=#ffffff;verticalAlign=top;strokeWidth=2;strokeColor=#6c8ebf;shadow=0;dashed=0;shape=mxgraph.ios7.icons.data;fillColor=#dae8fc;" parent="1" vertex="1">
+        <mxCell id="r-W4MLv6wnLr3ksw_QMo-23" value="&lt;b&gt;Index&lt;/b&gt;&lt;br&gt;aggs-datas-neo.inbound-consolidated" style="html=1;verticalLabelPosition=bottom;align=center;labelBackgroundColor=#ffffff;verticalAlign=top;strokeWidth=2;strokeColor=#6c8ebf;shadow=0;dashed=0;shape=mxgraph.ios7.icons.data;fillColor=#dae8fc;" parent="1" vertex="1">
           <mxGeometry x="358.95" y="1000" width="70" height="70" as="geometry" />
         </mxCell>
         <mxCell id="r-W4MLv6wnLr3ksw_QMo-26" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="r-W4MLv6wnLr3ksw_QMo-24" target="r-W4MLv6wnLr3ksw_QMo-25" edge="1">
@@ -82,7 +82,7 @@
         <mxCell id="r-W4MLv6wnLr3ksw_QMo-56" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="r-W4MLv6wnLr3ksw_QMo-21" target="r-W4MLv6wnLr3ksw_QMo-24" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="r-W4MLv6wnLr3ksw_QMo-21" value="&lt;b&gt;Index&lt;/b&gt;&lt;br&gt;aggs-neo.inbound.consolidated-enrich_index" style="html=1;verticalLabelPosition=bottom;align=center;labelBackgroundColor=#ffffff;verticalAlign=top;strokeWidth=2;strokeColor=#82b366;shadow=0;dashed=0;shape=mxgraph.ios7.icons.data;fillColor=#d5e8d4;" parent="1" vertex="1">
+        <mxCell id="r-W4MLv6wnLr3ksw_QMo-21" value="&lt;b&gt;Index&lt;/b&gt;&lt;br&gt;aggs-datas-neo.inbound-consolidated-enrich_index" style="html=1;verticalLabelPosition=bottom;align=center;labelBackgroundColor=#ffffff;verticalAlign=top;strokeWidth=2;strokeColor=#82b366;shadow=0;dashed=0;shape=mxgraph.ios7.icons.data;fillColor=#d5e8d4;" parent="1" vertex="1">
           <mxGeometry x="578.53" y="420" width="51" height="50" as="geometry" />
         </mxCell>
         <mxCell id="r-W4MLv6wnLr3ksw_QMo-24" value="&lt;b&gt;Ingest pipeline&lt;/b&gt;&lt;br&gt;neo.inbound-consolidated.datas.raw" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#4D27AA;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.redshift_streaming_ingestion;" parent="1" vertex="1">
@@ -128,10 +128,10 @@
         <mxCell id="r-W4MLv6wnLr3ksw_QMo-75" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.512;entryY=-0.001;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="r-W4MLv6wnLr3ksw_QMo-74" target="r-W4MLv6wnLr3ksw_QMo-62" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="r-W4MLv6wnLr3ksw_QMo-74" value="Trasnform&lt;br&gt;aggs-neo.inbound.consolidated-transform" style="image;aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;fontColor=#4277BB;labelBackgroundColor=default;fontSize=12;spacingTop=3;image=img/lib/ibm/infrastructure/transformation_connectivity.svg;" parent="1" vertex="1">
+        <mxCell id="r-W4MLv6wnLr3ksw_QMo-74" value="Trasnform&lt;br&gt;aggs-datas-neo.inbound-consolidated-transform" style="image;aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;fontColor=#4277BB;labelBackgroundColor=default;fontSize=12;spacingTop=3;image=img/lib/ibm/infrastructure/transformation_connectivity.svg;" parent="1" vertex="1">
           <mxGeometry x="393" y="40" width="60" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="P0feWYJJNRz_00HPKV77-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=16;" edge="1" parent="1" source="r-W4MLv6wnLr3ksw_QMo-5" target="r-W4MLv6wnLr3ksw_QMo-5">
+        <mxCell id="P0feWYJJNRz_00HPKV77-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=16;" parent="1" source="r-W4MLv6wnLr3ksw_QMo-5" target="r-W4MLv6wnLr3ksw_QMo-5" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
